@@ -16,3 +16,4 @@ This matrix is then multiplied with the material flow matrix to gain to total tr
 The sum is taken to gain the desired number (total transport way) for the current layout.<br>
 The results (x & y coordinates for each machine; distance between the machines, total transport way in units and meters) is appended to the dataframe.<br>
 After the desired number of simulations were executed, the best results out of all simulations (current & previous) is displayed.<br>
+<hr5>Package versions used:</hr5>
