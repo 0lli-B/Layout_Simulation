@@ -17,10 +17,10 @@ The sum is taken to gain the desired number (total transport way) for the curren
 The results (x & y coordinates for each machine; distance between the machines, total transport way in units and meters) is appended to the dataframe.<br>
 After the desired number of simulations were executed, the best results out of all simulations (current & previous) is displayed.<br>
 <h5>Package versions used:</h5>
-Python (3.8)
-numpy (1.21.2)
-pandas (1.3.5)
-matplotlib (3.5.0)
-opencv (4.0.1)
-PIL (8.0.0)
-openpyxl (3.0.9)
+Python (3.8)<br>
+numpy (1.21.2)<br>
+pandas (1.3.5)<br>
+matplotlib (3.5.0)<br>
+opencv (4.0.1)<br>
+PIL (8.0.0)<br>
+openpyxl (3.0.9)<br>
